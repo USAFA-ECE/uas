@@ -1,6 +1,8 @@
 # Course Schedule
 
-This is meant to serve an a _notional_ schedule for ECE215. We will keep this up to date throughout the semester so come back to this page (not your syllabus) for the schedule closest to reality. If there is a discrepancy between this schedule and a due date on Gradescope, use the due date on Gradescope. 
+This is the official course schedule for ECE 251. It provides a breakdown of lecture topics, corresponding readings/videos, and scheduled Operational Assessment dates. 
+
+You should refer to this schedule regularly to stay on track with the material and deadlines for successful completion of the course.
 
 | Lesson |                           Topic                  |   Reading            |     Due                     |
 |:------:|--------------------------------------------------|:--------------------:|:-----------------------------------------:|
