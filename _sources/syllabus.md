@@ -6,6 +6,6 @@ For information on your schedule or topics covered, please see those respective 
 
 ## ECE 251
 
-<embed src="_static/ECE251S_Syllabus_Spring2026.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="_static/ECE251_Syllabus_Spring2026.pdf" width="100%" height="600px" type="application/pdf">
 
-If you have trouble viewing, you can download the PDF [here](_static/ECE251S_Syllabus_Spring2026.pdf).
+If you have trouble viewing, you can download the PDF [here](_static/ECE251_Syllabus_Spring2026.pdf).
