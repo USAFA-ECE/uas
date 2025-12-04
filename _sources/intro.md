@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Welcome to ECE251, Introduction to Drone Systems!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This website serves as your primary resource for all course-related materials, including the official syllabus, detailed lesson plans, Operational Assessments, and supplementary videos.
 
-Check out the content pages bundled with this sample book to see more.
+All official course communications, announcements, Q&A, and direct interaction will occur exclusively on the course Teams page. Ensure you check it regularly to stay up-to-date.
 
 ```{tableofcontents}
 ```
