@@ -6,7 +6,7 @@ You will see each of these learning objectives referenced across course material
 
 | Objective | Description |
 |----------|----------|
-| 1 | I can properly connect my controller to the simulator and perform a controlled take-off, gentle hover, and landing using the four main controls in Acro mode. |
+| 1 | I can properly connect my controller to Velocidrone and perform a controlled take-off, gentle hover, and landing using the four main controls in Acro mode. |
 | 2 | I can achieve a stable hover, maintain a slow and gentle forward flight path, and execute controlled stopping and wide turns. |
 | 3 | I can execute continuous, smooth circles and figure-eights by coordinating the Roll and Yaw controls. |
 | 4 | I can fly through gates and small gaps by adjusting pitch and throttle to maintain a precise flight line. |
