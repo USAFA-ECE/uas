@@ -1,4 +1,5 @@
-# Welcome to ECE251, Introduction to Drone Operations!
+[//]: # (# Welcome to ECE251!)
+# Welcome to ECE251, _Introduction to Drone Operations_!
 
 This website serves as your primary resource for all course-related materials, including the official syllabus, detailed lesson plans, Operational Assessments, and supplementary videos.
 
