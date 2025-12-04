@@ -13,6 +13,6 @@ You will see each of these learning objectives referenced across course material
 | 5 | I can perform a tight, 180° Hairpin Turn using aggressive Roll and Yaw combined with precise throttle management and pre-turn braking. |
 | 6 | I can identify and execute advanced maneuvers like Orbits, Powerloops, and Split-S turns. |
 | 7 | I can integrate advanced maneuvers into a short, technical course. |
-| 8 | I can identify the main drone components, perform pre-flight checks, ensure battery safety, and understand how simulator settings relate to real-world drone rates. |
+| 8 | I can identify the main drone components, perform pre-flight inspections, follow safety protocols, and understand how simulator settings relate to real-world drone rates. |
 | 9 | I can perform high-intensity time-trials under simulated stress, applying mental focus techniques to quickly recover from errors. |
 | 10 | I can demonstrate all learned skills by successfully completing a Qualification Run and competing in an Elimination Race. |
