@@ -9,3 +9,15 @@ parts:
       - file: syllabus
       - file: LOs
       - file: schedule
+  - caption: Class Material
+    chapters:
+      - file: ECE251_Lesson1
+      - file: ECE251_Lesson2
+      - file: ECE251_Lesson3
+      - file: ECE251_Lesson4
+      - file: ECE251_Lesson5
+      - file: ECE251_Lesson6
+      - file: ECE251_Lesson7
+      - file: ECE251_Lesson8
+      - file: ECE251_Lesson9
+      - file: ECE251_Lesson10
