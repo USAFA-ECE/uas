@@ -9,7 +9,3 @@ parts:
       - file: syllabus
       - file: LOs
       - file: schedule
-  - caption: Resources
-    chapters:
-      - file: ECE251_Lesson1
-      - file: ECE251_Lesson1
