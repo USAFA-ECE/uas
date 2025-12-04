@@ -6,13 +6,13 @@ You should refer to this schedule regularly to stay on track with the material a
 
 | Lesson | Topic | Due Dates |
 |----------|----------|----------|
-| 1 | Course Introduction and Setup |  |
-| 2 | Hovering, Stability, and Basic Movement |  |
+| 1 | Course Introduction |  |
+| 2 | Two-Axis Control |  |
 | 3 | Coordinated Turns | Operational Assessment 1 |
 | 4 | Precision I |  |
 | 5 | Power Control |  |
 | 6 | Advanced Maneuvers I | Operational Assessment 2 |
 | 7 | Advanced Maneuvers II |  |
-| 8 | Mechanics and Maintenance | Operational Assessment 3 |
+| 8 | Quadcopter Anatomy | Operational Assessment 3 |
 | 9 | Precision II |  |
 | 10 | The Championship | Final Assessment  |
