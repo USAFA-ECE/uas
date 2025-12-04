@@ -2,8 +2,6 @@
 
 This is the official course schedule for ECE 251. It provides a breakdown of lecture topics, corresponding readings/videos, and scheduled Operational Assessment dates. 
 
-You should refer to this schedule regularly to stay on track with the material and deadlines for successful completion of the course.
-
 | Lesson | Topic | Due Dates |
 |----------|----------|----------|
 | 1 | Course Introduction |  |
