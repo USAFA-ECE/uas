@@ -4,7 +4,7 @@ This course will focus on specific learning objectives, which are key concepts r
 
 You will see each of these learning objectives referenced across course material by the number you see on this list. The objectives are listed in the order in which they will be covered.
 
-| Objective | Description |
+| LO# | Description |
 |----------|----------|
 | 1 | I can properly connect my controller to Velocidrone and perform a controlled take-off, gentle hover, and landing using the four main controls in Acro mode. |
 | 2 | I can achieve a stable hover, maintain a slow and gentle forward flight path, and execute controlled stopping and wide turns. |
