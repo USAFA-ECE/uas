@@ -1,9 +1,6 @@
-# 📆 Course Schedule
+# Course Schedule
 
-```{note}
-This schedule is subject to change as appropriate.
-```
-**Last Updated: 13 September 2024**
+This is meant to serve an a _notional_ schedule for ECE215. We will keep this up to date throughout the semester so come back to this page (not your syllabus) for the schedule closest to reality. If there is a discrepancy between this schedule and a due date on Gradescope, use the due date on Gradescope. 
 
 | Lesson |                           Topic                  |   Reading            |     Due                     |
 |:------:|--------------------------------------------------|:--------------------:|:-----------------------------------------:|
