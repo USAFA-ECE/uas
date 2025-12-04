@@ -4,12 +4,20 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Course Info
+  - caption: Administrative
     chapters:
-      - file: faq
-      - file: syllabi
-  - caption: Readings
+      - file: syllabus
+      - file: LOs
+      - file: schedule
+  - caption: Resources
     chapters:
-      - file: markdown
-      - file: notebooks
-      - file: markdown-notebooks
+      title: Lesson 1
+      title: Lesson 2
+      title: Lesson 3
+      title: Lesson 4
+      title: Lesson 5
+      title: Lesson 6
+      title: Lesson 7
+      title: Lesson 8
+      title: Lesson 9
+      title: Lesson 10
