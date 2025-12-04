@@ -10,3 +10,6 @@ parts:
       - file: LOs
       - file: schedule
   - caption: Resources
+    chapters:
+      - file: ECE215_Lesson1
+      - file: ECE215_Lesson2
