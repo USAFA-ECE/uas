@@ -38,7 +38,7 @@ There are four primary controls, often referred to as the **Four Channels**. The
 | Control (Stick Movement) | Channel Name | Drone Action | Analogy |
 | :--- | :--- | :--- | :--- |
 | Left Stick Vertical | Throttle | Controls vertical thrust. | The gas pedal in a car. |
-| Left Stick Horizontal | **Yaw | Controls the rotation around the Z-axis. | Steering the car left/right. |
+| Left Stick Horizontal | Yaw | Controls the rotation around the Z-axis. | Steering the car left/right. |
 | Right Stick Vertical | Pitch | Controls forward/backward movement. | Tilting a shopping cart forward/backward. |
 | Right Stick Horizontal | Roll | Controls left/right movement. | Tilting a plate to spill contents left/right. |
 
