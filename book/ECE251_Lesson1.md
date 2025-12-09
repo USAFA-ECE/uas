@@ -71,7 +71,7 @@ This is the hardest part. You must constantly adjust the four controls to mainta
 The goal is to set the drone down gently, not crash it.
 
 * Keep the drone as steady as possible (using Pitch and Roll) while you decrease the throttle.
-* Slowly pull the **Left Stick (Throttle) Down** until the drone is softly touching the ground.
+* Slowly decrease throttle input until the drone is softly touching the ground.
 * Once on the ground, pull the Throttle all the way down and hit your **Disarm Switch** (if set up). Throttle must be at 0% when you disarm.
 
 ## Lesson Review
