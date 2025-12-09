@@ -3,7 +3,7 @@
 ## Lesson Objective
 I can properly connect my controller to Velocidrone and perform a controlled take-off, gentle hover, and landing using the four main controls in Acro mode.
 
-## Velocidrone Installation (assuming students will use their own computers)
+## Velocidrone Setup
 
 We will be using the **Velocidrone FPV Simulator** throughout this course. Velocidrone is one of the most popular and realistic FPV drone simulators, offering accurate physics and a wide variety of environments (tracks, freestyle areas, and open spaces) to practice your flying skills without the risk of crashing.
 
