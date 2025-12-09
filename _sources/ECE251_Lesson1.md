@@ -3,6 +3,12 @@
 ## Lesson Objective
 I can properly connect my controller to Velocidrone and perform a controlled take-off, gentle hover, and landing using the four main controls in Acro mode.
 
+## Introduction to FPV
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkyrESchTpA?si=g2Uf68vy3YoCcb63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ynOcQOfDos8?si=JxrVvEARIwXOdhui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Velocidrone Setup
 
 We will be using the **Velocidrone FPV Simulator** throughout this course. Velocidrone is one of the most popular and realistic FPV drone simulators, offering accurate physics and a wide variety of environments (tracks, freestyle areas, and open spaces) to practice your flying skills without the risk of crashing.
@@ -15,9 +21,7 @@ The official **[Velocidrone](https://www.velocidrone.com/)** website is blocked 
 
 Allow the download and decompression process to finish completely. This can take a significant amount of time depending on your internet speed. When the main simulator application opens, you will be prompted to log in using the email and password you created on the website. This step assigns the license to your specific computer.
 
-> [import media]
-
-## Controller Connection
+### Controller Connection
 
 Before launching the simulator, you must connect your radio transmitter to your computer.
 
@@ -27,7 +31,11 @@ Before launching the simulator, you must connect your radio transmitter to your 
 
 After launching Velocidrone, navigate to the **Controller Setup/Calibration** menu. The simulator will guide you through moving the sticks (Throttle, Yaw, Pitch, Roll) to set the correct ranges and center points. Feel free to assign switches on your radio (Aux channels) to the simulator's functions, typically for arming and starting a race.
 
-> [import media]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7P2AHvvbqXg?si=_lNcTA8idBdNYJC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> **USAFA DRT Quad Settings and Rates will be provided in our teams page.**
+
+Lastly, select the **"FMV - Dock Derby"** track.
 
 ## Controlled Take-off, Hover, and Landing
 
@@ -42,14 +50,14 @@ There are four primary controls, often referred to as the **Four Channels**. The
 | Right Stick Vertical | Pitch | Controls forward/backward movement. | Tilting a shopping cart forward/backward. |
 | Right Stick Horizontal | Roll | Controls left/right movement. | Tilting a plate to spill contents left/right. |
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXCXRbkWiio?si=WZFGntnhfu19GAwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Controlled Take-off
 
 Your goal is to increase the throttle slowly and smoothly until the drone just leaves the ground and stops climbing.
 
 * Very gradually increase the throttle input. Stop the stick input immediately once the drone is about 3 feet off the ground.
 * The drone will likely start drifting. Use small, quick corrections with pitch (forward/back) and roll (left/right) to keep the drone stationary over its take-off spot.
-
-> [import media]
 
 ### Gentle Hover
 
@@ -58,8 +66,6 @@ This is the hardest part. You must constantly adjust the four controls to mainta
 * Constantly adjust the throttle slightly to fight gravity and keep the drone at the same height. If it climbs, reduce throttle; if it sinks, increase it.
 * Use tiny, quick inputs on the right stick to stop any lateral movement. Think of it as **tapping** the stick, not holding it over.
 
-> [import media]
-
 ### Controlled Landing
 
 The goal is to set the drone down gently, not crash it.
@@ -67,8 +73,6 @@ The goal is to set the drone down gently, not crash it.
 * Keep the drone as steady as possible (using Pitch and Roll) while you decrease the throttle.
 * Slowly pull the **Left Stick (Throttle) Down** until the drone is softly touching the ground.
 * Once on the ground, pull the Throttle all the way down and hit your **Disarm Switch** (if set up). Throttle must be at 0% when you disarm.
-
-> [import media]
 
 ## Lesson Review
 
