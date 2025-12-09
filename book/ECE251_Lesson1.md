@@ -31,23 +31,23 @@ After launching Velocidrone, navigate to the **Controller Setup/Calibration** me
 
 ## Controlled Take-off, Hover, and Landing
 
-Ensure your simulator is set to **Acro Mode**. Acro mode is crucial for learning FPV. It means the controller controls the rate of rotation (degrees per second), not the angle of the drone.
+Ensure your simulator is set to **Acro Mode**. Acro is essential for learning FPV. It means the controller controls the rate of rotation (degrees per second), not the angle of the drone.
 
 There are four primary controls, often referred to as the **Four Channels**. They control the direction and speed of the drone.
 
 | Control (Stick Movement) | Channel Name | Drone Action | Analogy |
 | :--- | :--- | :--- | :--- |
-| Left Stick Vertical | **Throttle** | Controls **vertical thrust** (altitude/speed). | The gas pedal in a car. |
-| **Left Stick Horizontal | **Yaw** | Controls the direction the **nose of the drone points** (rotation around the Z-axis). | Steering the car left/right. |
-| Right Stick Vertical | **Pitch** | Tilts the drone forward or backward, controlling **forward/backward movement**. | Tilting a shopping cart forward/backward. |
-| Right Stick Horizontal | **Roll** | Tilts the drone left or right, controlling **sideways movement** (strafe). | Tilting a plate to spill contents left/right. |
+| Left Stick Vertical | Throttle | Controls vertical thrust. | The gas pedal in a car. |
+| Left Stick Horizontal | **Yaw | Controls the rotation around the Z-axis. | Steering the car left/right. |
+| Right Stick Vertical | Pitch | Controls forward/backward movement. | Tilting a shopping cart forward/backward. |
+| Right Stick Horizontal | Roll | Controls left/right movement. | Tilting a plate to spill contents left/right. |
 
 ### Controlled Take-off
 
-Your goal is to increase the **Throttle** slowly and smoothly until the drone just leaves the ground and stops climbing.
+Your goal is to increase the throttle slowly and smoothly until the drone just leaves the ground and stops climbing.
 
 * Very gradually increase the throttle input. Stop the stick input immediately once the drone is about 3 feet off the ground.
-* The drone will likely start drifting. Use small, quick corrections with **Pitch** (forward/back) and **Roll** (left/right) to keep the drone stationary over its take-off spot.
+* The drone will likely start drifting. Use small, quick corrections with pitch (forward/back) and roll (left/right) to keep the drone stationary over its take-off spot.
 
 > [import media]
 
