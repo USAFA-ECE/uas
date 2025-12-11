@@ -20,7 +20,7 @@ I can achieve a stable hover, maintain a slow and gentle forward flight path, an
 Forward movement is initiated by pushing the right stick forward (Pitch). This tilts the drone, converting some **vertical thrust into horizontal thrust**.
 
 1. Achieve a stable hover about 3 feet off the ground.
-2. **Gently push the right stick forward** (Pitch) a small amount (e.g., 10%) to begin a slow forward drift.
+2. **Gently push the right stick forward** (Pitch) to begin a slow forward drift.
 3. Immediately bring the stick **back to center**. The drone will continue to move forward.
 4. **Maintain altitude** with small Throttle adjustments.
 
