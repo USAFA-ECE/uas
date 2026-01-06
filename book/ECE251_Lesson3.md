@@ -25,18 +25,18 @@ A coordinated turn is when the drone’s **bank (Roll)** and **heading change (Y
 * **Yaw** rotates the drone so the nose points through the turn.
 * **Pitch** stays small and steady to maintain forward momentum (you’re not “turning with pitch,” you’re using it to keep speed).
 
-## Drill 1: Yaw Awareness in a Hover (No Rolling Yet)
+## Yaw Awareness in a Hover (No Rolling Yet)
 
 Before combining inputs, build control of yaw while holding position.
 
-1. Hover about 3 feet off the ground.
+1. Hover a short distance above the ground.
 2. **Gently apply Yaw** (Left Stick left/right) to rotate ~90°.
 3. **Re-center** the stick and stabilize the hover.
 4. Repeat until you can rotate **without drifting** too far.
 
 Try rotating to face four directions (like N/E/S/W using landmarks).
 
-## Drill 2: Continuous Flat Circles (Roll + Yaw)
+## Continuous Flat Circles (Roll + Yaw)
 
 This is your first true coordinated turn.
 
@@ -50,7 +50,7 @@ This is your first true coordinated turn.
 
 Do both directions: right circles, then left circles.
 
-## Drill 3: Figure-Eights (Direction Changes)
+## Figure-Eights (Direction Changes)
 
 Figure-eights teach transitions and “resetting” coordination.
 
@@ -61,7 +61,7 @@ Figure-eights teach transitions and “resetting” coordination.
 
 Focus on making the crossover smooth and centered—not rushed.
 
-## Common Mistakes (Quick Fixes)
+## Common Mistakes
 
 * **Skidding/sideways sliding:** you’re banking (Roll) but not turning the nose enough → add a touch more **Yaw**.
 * **Spinning in place:** too much Yaw with not enough forward motion → reduce **Yaw** and keep a little forward speed.
@@ -72,4 +72,4 @@ Focus on making the crossover smooth and centered—not rushed.
 
 * Practice **Yaw Awareness**, **Continuous Circles**, and **Figure-Eights**.
 * The goal is **smooth, constant arcs**—not fast turns.
-* Your turn should feel “connected”: the nose points through the curve instead of sliding sideways.
+* Your turn should feel “connected”: the **nose points through** the curve instead of sliding sideways.
