@@ -15,6 +15,8 @@ I can achieve a stable hover, maintain a slow and gentle forward flight path, an
 * **Throttle** controls altitude and is the only non-centering control.
 * Successful hovering is about **small, constant corrections**, not large, jerky movements.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=d4z2Q771dE0&list=PLj8kmZ6kpXqhaqvZMsj2_ibIkjMfACu7d&index=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Controlled Forward Flight
 
 Forward movement is initiated by pushing the right stick forward (Pitch). This tilts the drone, converting some **vertical thrust into horizontal thrust**.
