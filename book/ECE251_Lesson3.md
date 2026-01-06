@@ -72,4 +72,4 @@ Focus on making the crossover smooth and centered—not rushed.
 
 * Practice **Yaw Awareness**, **Continuous Circles**, and **Figure-Eights**.
 * The goal is **smooth, constant arcs**—not fast turns.
-* Your turn should feel “connected”: the **nose points through** the curve instead of sliding sideways.
+* Your turn should feel “connected”: the **nose points through the curve** instead of sliding sideways.
