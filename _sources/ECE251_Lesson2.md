@@ -15,7 +15,7 @@ I can achieve a stable hover, maintain a slow and gentle forward flight path, an
 * **Throttle** controls altitude and is the only non-centering control.
 * Successful hovering is about **small, constant corrections**, not large, jerky movements.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4z2Q771dE0?list=PLj8kmZ6kpXqhaqvZMsj2_ibIkjMfACu7d" title="Throttle Control | FPV 101: Phase 6, Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4z2Q771dE0?list=PLj8kmZ6kpXqhaqvZMsj2_ibIkjMfACu7d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Controlled Forward Flight
 
